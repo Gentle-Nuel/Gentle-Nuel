@@ -1,64 +1,56 @@
-# Hey, I'm Emmanuel
+Hey, I'm Emmanuel
 
-I'm a creative technologist. I design and I build, not one or the other.
+I'm a full-stack developer who designs and builds software for real-world use.
 
-I work at the intersection of UI/UX design and software development, which means I think about how something looks and how it works at the same time. That's the idea behind **Code and Canvas**, the freelance brand I'm building around that approach.
+I work across frontend, backend, databases, and mobile — with a particular interest in building products that are reliable, understandable, and useful.
 
----
+What I Do
 
-## What I Do
+- Full-Stack Development: End-to-end web applications and APIs
+- Frontend & Mobile: React, React Native, TypeScript, JavaScript
+- Backend & Data: Node.js, Supabase, PostgreSQL, REST APIs
+- Security: Authentication, role-based access control, Row-Level Security
+- UI/UX: Turning product requirements and designs into usable interfaces
 
-- **UI/UX Design:** from wireframes to high-fidelity Figma designs
-- **Frontend Development:** turning designs into real, working interfaces
-- **Full-Stack & Mobile:** end-to-end apps built for web and Android
-- **Database Management:** structuring and managing data that scales
+Selected Work
 
----
+EODEPos — Retail Management & POS
 
-## Tech I Work With
+A production retail management application built for a paying client and currently used in daily store operations.
 
-**Frontend & Mobile**
-`React Native` `Expo` `React` `JavaScript` `HTML` `CSS`
+- Native Android application built with React Native and Expo
+- Point-of-sale and inventory management
+- Role-based Admin and Attendant access
+- Restock approval workflows
+- Offline operation and synchronization
+- PostgreSQL database with Supabase Auth and Edge Functions
 
-**Backend & Infrastructure**
-`Node.js` `Supabase` `PostgreSQL` `Vercel` `Netlify`
+Stack: React Native · Expo · Node.js · Supabase · PostgreSQL
 
-**Data & Scripting**
-`Python` `Database Management`
+View EODEPos →
+(https://github.com/Gentle-Nuel/EODEPos)
 
-**Design**
-`Figma` `UI/UX` `Responsive Design`
+Batchkeeper — Production & Inventory Management
 
----
+A mobile-first production management platform designed for small businesses that manufacture physical products.
 
-## Featured Work
+- Batch and production logging
+- Raw-material and inventory tracking
+- Cost and profit reporting
+- Multi-business data isolation with Row-Level Security
+- Offline-first data handling and synchronization
+- Excel export and multi-currency support
 
-### EODEPos — POS & Store Management App
-A production-grade point-of-sale and store management system built for and actively used by Ebenezer Online Digital Enterprise, a drinks and spirits retail business in Owerri, Nigeria.
+Stack: React · TypeScript · Vite · Tailwind CSS · Zustand · Supabase · PostgreSQL
 
-- Role-based authentication (Admin & Attendant)
-- Sales recording with single and split payment support
-- Offline mode with automatic sync on reconnect
-- Restock approval workflow between roles
-- Inventory management with low stock alerts
-- Delivered as a PWA — accessible on any Android device via browser link
+View Batchkeeper → (https://github.com/Gentle-Nuel/Batchkeeper)
 
-**Stack:** React Native (Expo) · Node.js · Supabase · PostgreSQL · Vercel
+Currently
 
-### 3rd Symposium — SICT FUTO 2024
-Official website for the School of Information and Communication Technology's 3rd Symposium at the Federal University of Technology, Owerri.
+Building Code and Canvas, a design and development studio focused on turning good ideas into well-crafted digital products.
 
-**Stack:** HTML · CSS
+I'm open to full-time and part-time software development opportunities, including remote roles.
 
----
+Contact
 
-## Currently
-
-- Building out **Code and Canvas**: design + dev, one brand
-- Open to freelance projects and collaborations
-
----
-
-## Get In Touch
-
-embaeri@gmail.com
+Email: embaeri@gmail.com
